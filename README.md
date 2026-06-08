@@ -1,0 +1,2 @@
+ Hi,I'm a passionate student interested in Web Development, Machine Learning, Data Analytics, and Artificial Intelligence.
+ I enjoy building projects and continuously learning new technologies
